@@ -1,0 +1,17 @@
+🔹 Real News Example 1:
+The Indian Space Research Organisation (ISRO) successfully launched the Aditya-L1 mission to study solar winds and their impact on Earth. The spacecraft will be stationed at Lagrange Point 1, around 1.5 million km from Earth, for continuous solar observation.
+
+🔹 Fake News Example 1:
+NASA has confirmed that the moon will turn green for the first time in recorded history as a result of an extremely rare planetary alignment occurring on April 20th, 2025.
+
+🔹 Real News Example 2:
+India's GDP growth for the fiscal year 2024-25 is estimated at 7.2%, according to projections by the Reserve Bank of India, driven by robust manufacturing and services sectors.
+
+🔹 Fake News Example 2:
+A new study claims that drinking 5 liters of cola per day can significantly boost brain power, according to scientists from a non-existent university in Switzerland.
+
+🔹 Real News Example 3:
+OpenAI has released a new version of ChatGPT that supports image and audio inputs, bringing multimodal capabilities to a wider user base through its Pro plan.
+
+🔹 Fake News Example 3:
+Scientists have discovered a secret tunnel beneath the Eiffel Tower that leads to an ancient underground civilization believed to have built Paris centuries ago.
